@@ -21,7 +21,7 @@ setTimeout(function() {
                                     setTimeout(function() {
                                         countdownElement.innerHTML = "1";
                                         setTimeout(function() {
-                                            countdownElement.innerHTML = "Happy Independence Day!";
+                                            countdownElement.innerHTML = 'Happy Independence Day!';
                                         }, 1000);
                                     }, 1000);
                                 }, 1000);
